@@ -1,3 +1,3 @@
 # Automation_test_cases
-This folder will hold test cases for the websites I do QA for.
-I will be using Java, Eclipse and Selenium to automate web browsers.
+Will hold QA automation tests case for Natrelle.com website.
+Java, Eclipse and Selenium will be used for this process.
